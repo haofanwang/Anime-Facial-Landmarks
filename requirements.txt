@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+mmcv-full==1.7.0 -f https://download.openmmlab.com/mmcv/dist/cu116/torch1.13/index.html
+mmdet==2.25.1
+mmpose==0.28.1
+numpy>=0.25.0
+opencv-python-headless>=4.5.4.58
