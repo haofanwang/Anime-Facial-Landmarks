@@ -12,7 +12,6 @@ from mmdet.apis import inference_detector, init_detector
 from mmpose.apis import inference_top_down_pose_model, init_pose_model
 from mmpose.datasets import DatasetInfo
 
-
 class LandmarkDetector:
     def __init__(
             self,
