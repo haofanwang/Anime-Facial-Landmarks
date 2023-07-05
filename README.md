@@ -54,6 +54,6 @@ for (i, pred) in enumerate(preds):
         bbox = pred["bbox"]
         kpts = pred["keypoints"]
 ```
-The order of keypoints can found in the sample result.
+The order of keypoints can found in the sample Shinichi Kudo image above.
 
 
